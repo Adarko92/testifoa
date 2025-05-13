@@ -47,7 +47,7 @@
 import streamlit as st
 #import os 
 #from dotenv import load_dotenv
-import requests 
+#import requests 
 import pandas as pd
 
 #load_dotenv()
