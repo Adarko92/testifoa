@@ -104,6 +104,23 @@ def main():
         st.write(f"📉 *Temperatura minima:* {temp_min}°C")
         st.write(f"📈 *Temperatura massima:* {temp_max}°C")
         st.write(f"💧 *Umidità:* {umidita}%")
+        st.markdown(
+        """
+        <style>
+        .stApp {
+            background-image: url("https://cdn.pixabay.com/photo/2015/04/23/21/59/tree-736875_1280.jpg");
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-attachment: fixed;
+        }
+
+        label {
+            color: white !important;
+        }
+        </style>
+        """,
+        unsafe_allow_html=True
+    )
 
         st.subheader("📍 Mappa della città")
         city_map = pd.DataFrame({'lat': [lat], 'lon': [lon]})
