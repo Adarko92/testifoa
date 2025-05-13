@@ -108,7 +108,7 @@ def main():
         """
         <style>
         .stApp {
-            background-image: url("https://cdn.pixabay.com/photo/2015/04/23/21/59/tree-736875_1280.jpg");
+            background-image: url("https://www.istockphoto.com/it/foto/uomo-daffari-che-mostra-segni-e-una-citt%C3%A0-gm847046448-138830829?utm_source=pixabay&utm_medium=affiliate&utm_campaign=sponsored_image&utm_content=srp_topbanner_media&utm_term=wether+agent");
             background-repeat: no-repeat;
             background-size: cover;
             background-attachment: fixed;
