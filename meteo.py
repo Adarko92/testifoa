@@ -108,7 +108,7 @@ def main():
         """
         <style>
         .stApp {
-            background-image: url("https://pixabay.com/it/photos/fotografia-aerea-cielo-bianca-1381617/");
+            background-image: url("https://pixabay.com/it/photos/fotografia-aerea-cielo-bianca-1381617.jpg");
             background-repeat: no-repeat;
             background-size: cover;
             background-attachment: fixed;
